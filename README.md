@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Aswin&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="./aswin-logic-logo.svg" width="150" alt="Aswin Logic Logo" />
+  <img src="./banner.svg" width="100%" alt="Header Banner" />
 </div>
 
 <h2 align="center">Building Real-Time Web Applications & IoT Systems</h2>
