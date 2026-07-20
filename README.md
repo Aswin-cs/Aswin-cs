@@ -1,156 +1,118 @@
 <div align="center">
-
-# Aswin
-
-### Full Stack Developer · Web Developer · Creative Problem Solver
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aswin-cs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Aswin-cs/portfolio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswin@example.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Aswin&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
----
-
-## About
-
-I am a full-stack developer based in India, focused on building reliable, well-engineered web applications. My work spans real-time systems, marketplace platforms, and IoT-driven products, with an emphasis on clean architecture and practical user experience.
-
-- Currently exploring **TypeScript** and advanced full-stack patterns
-- Working primarily with **React, Next.js, Node.js, and modern JavaScript**
-- Open to discussing web development, real-time applications, and UI/UX
-- Reach me at **aswin@example.com**
-
----
-
-## Tech Stack
-
-**Languages & Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## GitHub Statistics
+<h2 align="center">Building Real-Time Web Applications & IoT Systems</h2>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswin-cs&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-cs&theme=tokyonight&hide_border=true&layout=compact)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+based+in+India;TypeScript+%7C+React+%7C+Node.js;Architecting+Scalable+Solutions;Open+for+Collaboration+%26+Freelance" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-## Featured Projects
-
-### Smart Stadiums and Tournament Operations
-A comprehensive system for managing smart stadiums and tournament operations, covering tournament management, stadium operations, and real-time updates.
-**Stack:** JavaScript
-[View Repository](https://github.com/Aswin-cs/Smart-Stadiums-and-Tournament-Operations)
-
-### City Salon Marketplace
-A full-featured marketplace platform for salon services, including service listings, a booking system, and user management.
-**Stack:** TypeScript
-[View Repository](https://github.com/Aswin-cs/city-salon-marketplace)
-
-### Chat Application
-A real-time chat application with modern messaging features, user management, and a responsive interface.
-**Stack:** JavaScript
-[View Repository](https://github.com/Aswin-cs/chatapp)
-
-### Crowdera Foundation
-A fundraising and donation platform supporting campaign management, donation tracking, and impact metrics.
-**Stack:** TypeScript
-[View Repository](https://github.com/Aswin-cs/crowdera_foundation)
-
-### Carbon Footprint Tracker
-An application for tracking and analyzing carbon footprint metrics, with a focus on environmental impact analysis.
-**Stack:** TypeScript
-[View Repository](https://github.com/Aswin-cs/Carbon-footprint)
-
-### Crema Bar — Website Demo
-A demo website for a cafe and bar, featuring menu display, reservations, and a modern UI.
-**Stack:** JavaScript
-[View Repository](https://github.com/Aswin-cs/Crema-Bar)
-
-### Zaithoon Cafe — Showcase Website
-A professional showcase website for a cafe business, including business information, menu, gallery, and contact details.
-**Stack:** JavaScript
-[View Repository](https://github.com/Aswin-cs/Zaithoon_cafe)
-
-### Smart Garbage System
-An IoT-based smart waste management system supporting real-time monitoring, waste tracking, and optimization.
-**Stack:** JavaScript
-[View Repository](https://github.com/Aswin-cs/smart-garbage-system)
-
-### Game Projects
-A collection of interactive games built with web technologies.
-
-| Project | Description | Link |
-|---|---|---|
-| X-O-X Multiplayer | Multiplayer tic-tac-toe game | [View](https://github.com/Aswin-cs/X-O-X-multiplayer) |
-| X-O-X Singleplayer | AI-powered tic-tac-toe | [View](https://github.com/Aswin-cs/X-0-X-singleplayer) |
-| XOX | Advanced game implementation | [View](https://github.com/Aswin-cs/XOX) |
-
-### Additional Projects
-
-| Project | Description | Link |
-|---|---|---|
-| Portfolio | Personal portfolio website | [View](https://github.com/Aswin-cs/portfolio) |
-| Review App | Review and rating platform | [View](https://github.com/Aswin-cs/review-app) |
-| Quick Project (qp) | Rapid development project | [View](https://github.com/Aswin-cs/qp) |
-| Project Net | Network-related project | [View](https://github.com/Aswin-cs/project-net) |
-
----
-
-## Areas of Expertise
-
-- Full-stack web development, from architecture to deployment
-- Real-time applications, including chat systems and WebSocket integration
-- Marketplace platforms with booking and transaction workflows
-- IoT integration and real-time monitoring systems
-- Responsive, accessible, mobile-first design
-- Interactive, web-based game development
-
----
-
-## Currently Open To
-
-- Collaboration on well-scoped, interesting projects
-- Freelance opportunities and contract work
-- Open source contributions
-- Discussions on new ideas and technical approaches
-- Learning new technologies and refining best practices
-
----
+<br />
 
 <div align="center">
+  <a href="mailto:aswin@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Aswin-cs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/Aswin-cs/portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</div>
 
-**Feel free to explore my repositories and reach out.**
+<br />
 
-Aswin
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aswin-cs&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Aswin-cs.Aswin-cs)
+<br />
 
+---
+
+## Expertise & Technologies
+
+I specialize in architecting and developing robust full-stack applications. My core stack revolves around modern JavaScript/TypeScript ecosystems.
+
+<div align="center">
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13" alt="Tech Stack" />
+  </a>
+  <br />
+</div>
+
+<br />
+
+---
+
+## Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="192px" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-cs&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" height="170px" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-cs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" alt="Activity Graph" />
+</div>
+
+<br />
+
+---
+
+## Featured Work
+
+| Top Projects | Description | Tech Stack |
+|:---|:---|:---|
+| **[Smart Stadiums & Tournament](https://github.com/Aswin-cs/Smart-Stadiums-and-Tournament-Operations)** | Smart stadium management system with real-time tournament orchestration and IoT ops. | `JavaScript`, `Real-time`, `IoT` |
+| **[City Salon Marketplace](https://github.com/Aswin-cs/city-salon-marketplace)** | Full-featured salon services marketplace with service listings and integrated booking. | `TypeScript`, `Marketplace` |
+| **[Real-time Chat App](https://github.com/Aswin-cs/chatapp)** | Modern messaging application with real-time chat, authentication, and mobile UI. | `JavaScript`, `WebSocket` |
+| **[Crowdera Foundation](https://github.com/Aswin-cs/crowdera_foundation)** | Fundraising platform for campaign management, donation tracking, and impact metrics. | `TypeScript`, `Analytics` |
+| **[Carbon Footprint Tracker](https://github.com/Aswin-cs/Carbon-footprint)** | Environmental impact analysis tools to track personal and organizational carbon footprint. | `TypeScript`, `Environment` |
+
+<br />
+
+<details>
+  <summary><b>Games & Entertainment</b></summary>
+  <br/>
+  <ul>
+    <li><a href="https://github.com/Aswin-cs/X-O-X-multiplayer"><b>X-O-X Multiplayer</b></a>: Online multiplayer tic-tac-toe with real-time sync.</li>
+    <li><a href="https://github.com/Aswin-cs/X-0-X-singleplayer"><b>X-O-X Singleplayer</b></a>: AI-powered tic-tac-toe with difficulty levels.</li>
+    <li><a href="https://github.com/Aswin-cs/XOX"><b>XOX</b></a>: Advanced tic-tac-toe with extended features.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Web & Showcase</b></summary>
+  <br/>
+  <ul>
+    <li><a href="https://github.com/Aswin-cs/Crema-Bar"><b>Crema Bar</b></a>: Cafe & bar demo — menu display, reservations, modern visual identity.</li>
+    <li><a href="https://github.com/Aswin-cs/Zaithoon_cafe"><b>Zaithoon Cafe</b></a>: Professional cafe showcase — business info, menu, gallery, contacts.</li>
+  </ul>
+</details>
+
+<br />
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+  <p><i>Thanks for visiting — let's build something great together.</i></p>
 </div>
