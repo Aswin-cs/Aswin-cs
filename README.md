@@ -62,14 +62,14 @@ I specialize in architecting and developing robust full-stack applications. My c
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF" />
-    <img height="192px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF" />
+    <img height="192px" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
-    <img height="192px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
+    <img height="192px" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
   </picture>
 </div>
 
