@@ -43,8 +43,8 @@ I specialize in architecting and developing robust full-stack applications. My c
   <br />
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb&perline=12&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb&perline=12&theme=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cnextjs%2Chtml%2Ccss%2Ctailwind%2Cgit%2Cgithub%2Cvscode%2Cmongodb&perline=12&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cnextjs%2Chtml%2Ccss%2Ctailwind%2Cgit%2Cgithub%2Cvscode%2Cmongodb&perline=12&theme=light" />
       <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb&perline=12&theme=dark" alt="Tech Stack" />
     </picture>
   </a>
