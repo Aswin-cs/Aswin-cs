@@ -15,9 +15,7 @@
 
 <div align="center">
   <a href="mailto:aswin@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Aswin-cs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://github.com/Aswin-cs/portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
@@ -39,8 +37,8 @@ I specialize in architecting and developing robust full-stack applications. My c
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=light#gh-light-mode-only" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb&perline=12&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb&perline=12&theme=light#gh-light-mode-only" alt="Tech Stack" />
   </a>
   <br />
 </div>
