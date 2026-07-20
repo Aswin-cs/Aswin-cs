@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Aswin&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="./aswin-logic-logo.svg" width="150" alt="Aswin Logic Logo" />
+</div>
+
 <h2 align="center">Building Real-Time Web Applications & IoT Systems</h2>
 
 <div align="center">
@@ -14,9 +18,8 @@
 <br />
 
 <div align="center">
-  <a href="mailto:aswin@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Aswin-cs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/Aswin-cs/portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aswin-portfolio-10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br />
