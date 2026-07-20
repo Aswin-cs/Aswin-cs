@@ -6,11 +6,8 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+based+in+India;TypeScript+%7C+React+%7C+Node.js;Architecting+Scalable+Solutions;Open+for+Collaboration+%26+Freelance" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+based+in+India;TypeScript+%7C+React+%7C+Node.js;Architecting+Scalable+Solutions;Open+for+Collaboration+%26+Freelance" />
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+based+in+India;TypeScript+%7C+React+%7C+Node.js;Architecting+Scalable+Solutions;Open+for+Collaboration+%26+Freelance" />
-    </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+based+in+India;TypeScript+%7C+React+%7C+Node.js;Architecting+Scalable+Solutions;Open+for+Collaboration+%26+Freelance#gh-dark-mode-only" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+based+in+India;TypeScript+%7C+React+%7C+Node.js;Architecting+Scalable+Solutions;Open+for+Collaboration+%26+Freelance#gh-light-mode-only" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,11 +24,8 @@
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Aswin-cs&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Aswin-cs&style=flat-square&color=0969DA&label=PROFILE+VIEWS" />
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Aswin-cs&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=Aswin-cs&style=flat-square&color=58A6FF&label=PROFILE+VIEWS#gh-dark-mode-only" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aswin-cs&style=flat-square&color=0969DA&label=PROFILE+VIEWS#gh-light-mode-only" alt="Profile Views" />
 </div>
 
 <br />
@@ -45,11 +39,8 @@ I specialize in architecting and developing robust full-stack applications. My c
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=light" />
-      <img alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=dark" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,html,css,tailwind,git,github,vscode,mongodb,postgres&perline=13&theme=light#gh-light-mode-only" alt="Tech Stack" />
   </a>
   <br />
 </div>
@@ -61,32 +52,20 @@ I specialize in architecting and developing robust full-stack applications. My c
 ## Analytics & Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF" />
-    <img height="192px" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
-    <img height="192px" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  </picture>
+  <img height="192px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117#gh-dark-mode-only" alt="GitHub Stats" />
+  <img height="192px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aswin-cs&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=0969DA&bg_color=FFFFFF#gh-light-mode-only" alt="GitHub Stats" />
+  <img height="192px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117#gh-dark-mode-only" alt="Top Languages" />
+  <img height="192px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aswin-cs&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&bg_color=FFFFFF#gh-light-mode-only" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-cs&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-cs&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&sideNums=24292F&sideLabels=24292F&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=24292F" />
-    <img height="170px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-cs&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" />
-  </picture>
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-cs&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9#gh-dark-mode-only" alt="GitHub Streak" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-cs&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&sideNums=24292F&sideLabels=24292F&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=24292F#gh-light-mode-only" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-cs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-cs&theme=github&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=FFFFFF" />
-    <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-cs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-cs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF#gh-dark-mode-only" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-cs&theme=github&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=FFFFFF#gh-light-mode-only" alt="Activity Graph" />
 </div>
 
 <br />
@@ -131,11 +110,8 @@ I specialize in architecting and developing robust full-stack applications. My c
 ## Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake-dark.svg#gh-dark-mode-only" alt="" />
+  <img src="https://raw.githubusercontent.com/Aswin-cs/Aswin-cs/output/github-snake.svg#gh-light-mode-only" alt="" />
 </div>
 
 <br />
