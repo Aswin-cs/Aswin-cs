@@ -2,7 +2,7 @@
   <img src="./banner.svg" width="100%" alt="Header Banner" />
 </div>
 
-<h2 align="center">Building Real-Time Web Applications & IoT Systems</h2>
+<h2 align="center">Building Real-Time Web Applications </h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
